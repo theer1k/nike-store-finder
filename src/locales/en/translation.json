@@ -1,0 +1,79 @@
+{
+  "homePage": {
+    "pageTitle": "Home",
+    "pageMetaContent": "Home - Nike Canada",
+    "shoppingStores": "Stores",
+    "searchPlaceholder": "Search by address or ZIP code",
+    "searchButtonLabel": "Search",
+    "filterMinorDistanceLabel": "Minor distance",
+    "filterGreaterDistance": "Greater distance",
+    "yourLocation": "Your location"
+  },
+  "notFoundPage": {
+    "pageTitle": "Not Found Page",
+    "pageMetaContent": "Not Found Page",
+    "message": "Page not found."
+  },
+  "components": {
+    "shoppingStoreCard": {
+      "seeOnMapLabel": "See on map",
+      "service": "Service",
+      "availability": "Available in {{count}} business days"
+    },
+    "shoppingStoresList": {
+      "filter": "Filter"
+    },
+    "newsLetter": {
+      "title": "Receive Nike News",
+      "message": "Sign up and be one of the first to know about all the news and offers.",
+      "registerButtonLabel": "Sign up"
+    },
+    "footer": {
+      "findShoppingStore": "Find a Nike Store",
+      "registerForNews": "Sign up to receive updates",
+      "siteMap": "Site Map",
+      "help": {
+        "summary": "Help",
+        "generalQuestions": "General Questions",
+        "findYourSize": "Find Your Size",
+        "orders": "Orders",
+        "exchangesAndReturns": "Exchanges and Returns",
+        "editConsent": "Edit Consent",
+        "cookiePreferences": "Cookie Preferences",
+        "payments": "Payments",
+        "products": "Products",
+        "corporate": "Corporate",
+        "contactUs": "Contact Us"
+      },
+      "aboutNike": {
+        "summary": "About Nike",
+        "madeToPlay": "Made to Play",
+        "sustainability": "Sustainability"
+      },
+      "socialMedias": "Social Media",
+      "paymentMethods": "Payment Methods",
+      "privacyPolicy": "Privacy Policy",
+      "userTerms": "Terms of Use",
+      "companyInfos": "© 2023 Nike. All rights reserved. One Bowerman Drive Beaverton, OR (Oregon) 97005-6453 - United States"
+    },
+    "header": {
+      "links": {
+        "newOffersPage": "New Releases",
+        "malePage": "Men's",
+        "femalePage": "Women's",
+        "kidsPage": "Kids",
+        "offersPage": "Offers",
+        "homePage": "SNKRS"
+      },
+      "searchButtonLabel": "Search"
+    },
+    "topHeader": {
+      "links": {
+        "help": "Help",
+        "followYourOrder": "Track Your Order",
+        "joinUs": "Join Us",
+        "login": "Log In"
+      }
+    }
+  }
+}
